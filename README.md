@@ -1,16 +1,19 @@
-# todo_app
 
-A new Flutter application.
+<img src="https://user-images.githubusercontent.com/92920178/145265655-2a8404db-6450-4079-8afe-04bf6f8c9fd9.png" alt='' border=”0” style=”display:block;” width="100%" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/92920178/145265675-fcc49347-ffa8-428e-a83a-78110b801408.gif" alt='' border=”0” style=”display:block;” height="500"  align='right'/>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Todo app using Bloc and sqflite
+
+This project is a practice to learn how to use bloc state mangement and sqflite database
+
+## Technical features
+
+- Create, read, update and delete tasks using sqflite 
+- Sorting tasks to new, done and archived
+- Create reusable components for ease of readability
+
